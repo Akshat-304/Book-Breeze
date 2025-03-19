@@ -1,5 +1,9 @@
 # Book-Breeze E-Commerce CLI
-An E-Commerce CLI that provides functionalities for customers, administrators, vendors and delivery executives to interact with the system. It is connected to MySQL database. 
+An E-Commerce CLI that provides functionalities for customers, administrators, vendors and delivery executives to interact with the system. It is connected to MySQL database.
+
+# Tech Stack
+- Python (CLI Interaction)
+- MySQL (Database) 
 
 # Features
 ## Customers
@@ -19,6 +23,3 @@ An E-Commerce CLI that provides functionalities for customers, administrators, v
 ## Delivery Executives
 - View Assigned Orders
 - Mark Orders as Delivered
-# Tech Stack
-- Python (CLI Interaction)
-- MySQL (Database) 
