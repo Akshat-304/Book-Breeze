@@ -1,5 +1,5 @@
 # Book-Breeze E-Commerce CLI
-A command-line-based E-Commerce system that allows customers, admins, vendors, and delivery executives to interact seamlessly.
+An E-Commerce CLI that provides functionalities for customers, administrators, vendors and delivery executives to interact with the system. It is connected to MySQL database. 
 
 # Features
 ## Customers
